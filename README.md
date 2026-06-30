@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lê Võ Nhựt Nguyên</h1>
+<h1 align="center">Hi 👋, I'm Le Vo Nhut Nguyen</h1>
 <h3 align="center">Backend Developer | Java • Spring Boot • Iot Platform</h3>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science Student
+- 🎓 Information Technology student
 - 💼 Interested in Backend Development & IoT
 - 🌱 Currently learning **Spring Cloud, RabbitMQ, Docker**
 - 📱 Building mobile apps with **Flutter**
@@ -49,11 +49,6 @@
 - 🏍 **Motorbike Anti-Theft & Accident Detection**
   - ESP32-S3, MQTT, Flutter, Spring Boot
   - Real-time monitoring via 4G
-
-- ❤️ **Dating Application**
-  - Spring Boot, Flutter, Firebase
-
----
 
 ## 📈 GitHub Stats
 
