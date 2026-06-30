@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lê Võ Nhựt Nguyên</h1>
-<h3 align="center">Backend Developer | Java • Spring Boot • Flutter</h3>
+<h3 align="center">Backend Developer | Java • Spring Boot • Iot Platform</h3>
 
 <p align="center">
   Passionate about building scalable backend systems, RESTful APIs, and IoT applications.
